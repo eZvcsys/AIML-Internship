@@ -23,3 +23,5 @@
 
 streamlit run assignment-1.py
 streamlit run assignment-2.py
+
+sudo ss -tunlp | grep sshd
