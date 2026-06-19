@@ -1,0 +1,15 @@
+[project]
+name = "projects"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "streamlit",
+    "langchain",
+    "langchain-ollama",
+    "langchain-text-splitters>=1.1.2",
+    "bs4>=0.0.2",
+    "requests>=2.34.2",
+    "langchain-chroma>=1.1.0",
+]
